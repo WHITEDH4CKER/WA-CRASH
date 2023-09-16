@@ -2,7 +2,8 @@
 ### 👉Crash Whatsapp by  sending Only One Text.
 ***
 ## Screenshots:
-![App Screenshot](https://github.com/WHITEDH4CKER/WA-CRASH/blob/main/utils/Screenshot_1.jpg) ![App Screenshot](https://github.com/WHITEDH4CKER/WA-CRASH/blob/main/Screenshots/Screenshot_2.jpg)
+![App Screenshot](https://github.com/WHITEDH4CKER/WA-CRASH/blob/main/Screenshots/Screenshot_1.jpg) 
+![App Screenshot](https://github.com/WHITEDH4CKER/WA-CRASH/blob/main/Screenshots/Screenshot_2.jpg)
 
 ## NOTES
    ### ⚠️⚠️⚠️Tool is Made of Educational Purposes only Please try not to harm anyone device it's For Fun Purpose Not For Revenge For Queries: [Telegram](t.me/mranonymous4u)
