@@ -35,4 +35,4 @@ chmod +x WA-CRASH.py
 python3 WA-CRASH.py
 ```
 ### <p align="center">```And Thanks for choosing this tool Support Us !```
-## <p align="center">```WHITEDH4CER```
+## <p align="center">```WHITEDH4CKER```
