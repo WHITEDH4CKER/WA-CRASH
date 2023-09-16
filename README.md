@@ -6,7 +6,7 @@
 ![App Screenshot](https://github.com/WHITEDH4CKER/WA-CRASH/blob/main/Screenshots/Screenshot_2.jpg)
 
 ## NOTES
-   ### ⚠️⚠️⚠️Tool is Made of Educational Purposes only Please try not to harm anyone device it's For Fun Purpose Not For Revenge For Queries: [Telegram] (t.me/mranonymous4u)
+   ### ⚠️⚠️⚠️Tool is Made of Educational Purposes only Please try not to harm anyone device it's For Fun Purpose Not For Revenge For Queries: [Telegram] (https://t.me/mranonymous4u)
 
 ## Usage:
  ***Termux version from Play Store is not supported since 2019, please use the latest version from F-Droid Store!
