@@ -1,4 +1,4 @@
-# WACRASH☠️
+# WA-CRASH☠️☠️☠️
 ### 👉Crash Whatsapp by  sending Only One Text.
 ***
 ## Screenshots:
