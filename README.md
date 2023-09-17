@@ -8,22 +8,18 @@
 ***
 ![App Screenshot](https://github.com/WHITEDH4CKER/WA-CRASH/blob/main/Screenshots/Screenshot_2.jpg)
 
-## NOTES
+## NOTES:
    ### ⚠️⚠️⚠️Tool is Made for Educational Purposes only Please try not to harm anyone device it's For Fun Purpose Not For Reveng⚠️⚠️⚠️
    ***
    
-
-
-## Support: 
-   ### ➡️For Queries: [Telegram] (https://t.me/mranonymous4u)
-   ***
-
-
 ## Usage:
  ****➡️Termux version from Play Store is not supported since 2019, please use the latest version from F-Droid Store!
 Download Now: 📥 https://f-droid.org/packages/com.termux/****
 
-
+## Support: 
+   ### ➡️For Queries: [Telegram] (https://t.me/mranonymous4u)
+   ***
+   
 ### <p align="center">Use commands and run tool in termux or linux
 ***
 ```bash
