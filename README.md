@@ -13,11 +13,11 @@
 ![App Screenshot](https://github.com/WHITEDH4CKER/WA-CRASH/blob/main/Screenshots/Screenshot_2.jpg)
    
 ## Usage:
- ****➡️Termux version from Play Store is not supported since 2019, please use the latest version from F-Droid Store!
-Download Now: 📥 https://f-droid.org/packages/com.termux/****
+ **➡️Termux version from Play Store is not supported since 2019, please use the latest version from F-Droid Store!
+Download Now: 📥 https://f-droid.org/packages/com.termux/**
    
-### <p align="center">Use commands and run tool in termux or linux
-***
+#### ➡️To use the WA-CRASH type the following commands in Termux or linux:
+
 ```bash
 apt update && apt upgrade -y
 ```
@@ -45,3 +45,4 @@ python3 WA-CRASH.py
 ### <p align="center">```And Thanks for choosing this tool Support Us !```
 
 ## <p align="center">```WHITEDH4CKER [DEV_SANJAY]```
+<p align="right"> Last FAQ Update: 17.09.2023 </p>
