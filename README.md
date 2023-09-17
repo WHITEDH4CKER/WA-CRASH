@@ -15,13 +15,13 @@
 
 
 ## Support: 
-   ### For Queries: [Telegram] (https://t.me/mranonymous4u)
+   ### ➡️For Queries: [Telegram] (https://t.me/mranonymous4u)
    ***
 
 
 ## Usage:
- ****Termux version from Play Store is not supported since 2019, please use the latest version from F-Droid Store!
-Download Now:  https://f-droid.org/packages/com.termux/****
+ ****➡️Termux version from Play Store is not supported since 2019, please use the latest version from F-Droid Store!
+Download Now: 📥 https://f-droid.org/packages/com.termux/****
 
 
 ### <p align="center">Use commands and run tool in termux or linux
