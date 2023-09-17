@@ -1,4 +1,4 @@
-# ☠️☠️☠️WA-CRASH☠️☠️☠️
+# ☠️☠️WA-CRASH☠️☠️
 
 ### 👉Crash Whatsapp by  sending Only One Text.
 ***
@@ -49,4 +49,4 @@ python3 WA-CRASH.py
 ```
 ### <p align="center">```And Thanks for choosing this tool Support Us !```
 
-## <p align="center">```WHITEDH4CKER```
+## <p align="center">```WHITEDH4CKER [DEV_SANJAY]```
