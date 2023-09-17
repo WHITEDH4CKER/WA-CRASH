@@ -11,7 +11,7 @@
 ![App Screenshot](https://github.com/WHITEDH4CKER/WA-CRASH/blob/main/Screenshots/Screenshot_1.jpg) 
 ***
 ![App Screenshot](https://github.com/WHITEDH4CKER/WA-CRASH/blob/main/Screenshots/Screenshot_2.jpg)
-   
+***
 ## Usage:
  **➡️Termux version from Play Store is not supported since 2019, please use the latest version from F-Droid Store!
 Download Now: 📥 https://f-droid.org/packages/com.termux/**
