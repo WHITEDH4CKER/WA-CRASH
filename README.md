@@ -40,7 +40,7 @@ chmod +x WA-CRASH.py
 python3 WA-CRASH.py
 ```
 ## Support: 
-   ### ➡️For Queries: [Telegram] (https://t.me/mranonymous4u)
+   #### ➡️For Queries: [Telegram] (https://t.me/mranonymous4u)
    ***
 ### <p align="center">```And Thanks for choosing this tool Support Us !```
 
