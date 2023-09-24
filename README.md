@@ -1,4 +1,4 @@
-# ☠️☠️WA-CRASH☠️☠️
+## ☠️☠️WA-CRASH☠️☠️
 
 ### 👉Crash Whatsapp by  sending Only One Text.
 ***
@@ -40,8 +40,10 @@ chmod +x WA-CRASH.py
 python3 WA-CRASH.py
 ```
 ## Support: 
-   #### ➡️For Queries: [Telegram] (https://t.me/mranonymous4u)
+   **➡️For Queries: [Telegram] (https://t.me/WHITEDH4CKER)**
    ***
+**➡️Follow [Instagram] (https://Instagram.com/WHITEDH4CKER)** 
+ ***
 ### <p align="center">```And Thanks for choosing this tool Support Us !```
 
 ## <p align="center">```WHITEDH4CKER [DEV_SANJAY]```
