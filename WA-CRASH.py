@@ -102,9 +102,9 @@ def MSG():
 		main()
 	elif YTC == 'N' or YTC == 'n':
 		print("")
-		os.system("xdg-open https://t.me/WHITEDH4CKER")
+		os.system("xdg-open https://t.me/WHITEDR00M")
 		time.sleep(8)
-		os.system("xdg-open https://t.me/WHITEDH4CKER")
+		os.system("xdg-open https://t.me/WHITEDR00M")
 		time.sleep(3)
 		print(W + "\n\n")
 		main()
