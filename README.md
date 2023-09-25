@@ -4,7 +4,7 @@
 ***
 
 ##Warning🚨 :
-   ###⚠️Misuse of information on this website/tool may result in criminal charges against the individuals concerned. The authors and WHITEDH4CKER will not be held responsible in case any criminal charges are filed against any person misusing the information on the website/tool. This website/tool is designed for educational purposes only.⚠️
+**⚠️Misuse of information on this website/tool may result in criminal charges against the individuals concerned. The authors and WHITEDH4CKER will not be held responsible in case any criminal charges are filed against any person misusing the information on the website/tool. This website/tool is designed for educational purposes only.⚠️**
    ***
 
 ## Screenshots:
