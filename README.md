@@ -1,10 +1,10 @@
 ## ☠️☠️WA-CRASH☠️☠️
 
-### 👉Crash Whatsapp by  sending Only One Text.
+### 👉Crash Whatsapp by sending Only One Text.
 ***
 
-## NOTES:
-   ### ⚠️⚠️⚠️Tool is Made for Educational Purposes only Please try not to harm anyone device it's For Fun Purpose Not For Reveng⚠️⚠️⚠️
+##Warning🚨 :
+   ###⚠️Misuse of information on this website/tool may result in criminal charges against the individuals concerned. The authors and WHITEDH4CKER will not be held responsible in case any criminal charges are filed against any person misusing the information on the website/tool. This website/tool is designed for educational purposes only.⚠️
    ***
 
 ## Screenshots:
