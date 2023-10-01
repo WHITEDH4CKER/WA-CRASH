@@ -42,11 +42,13 @@ chmod +x WA-CRASH.py
 python3 WA-CRASH.py
 ```
 ## 👤My Account For Support👤:
-### ➡️ [Telegram group](https://t.me/WHITEDR00M)
-### ➡️ [Telegram](https://t.me/WHITEDH4CKER)
+
 ### ➡️ [Instagram](https://Instagram.com/WHITEDH4CKER)
+### ➡️ [Telegram](https://t.me/WHITEDH4CKER)
+### ➡️ [Telegram group](https://t.me/WHITEDR00M)
 ***
+
 ### <p align="center">```And Thanks for choosing this tool Support Us !```
 
 ## <p align="center">```WHITEDH4CKER [DEV_SANJAY]```
-<p align="right"> Last FAQ Update: 17.09.2023 </p>
+<p align="right"> Last FAQ Update: 1.10.2023 </p>
