@@ -41,11 +41,11 @@ chmod +x WA-CRASH.py
 ```bash
 python3 WA-CRASH.py
 ```
-## Support: 
-   **➡️For Queries: [Telegram] (https://t.me/WHITEDH4CKER)**
-   ***
-**➡️Follow [Instagram] (https://Instagram.com/WHITEDH4CKER)** 
- ***
+## 👤My Account For Support👤:
+### ➡️ [Telegram group](https://t.me/WHITEDR00M)
+### ➡️ [Telegram](https://t.me/WHITEDH4CKER)
+### ➡️ [Instagram](https://Instagram.com/WHITEDH4CKER)
+***
 ### <p align="center">```And Thanks for choosing this tool Support Us !```
 
 ## <p align="center">```WHITEDH4CKER [DEV_SANJAY]```
