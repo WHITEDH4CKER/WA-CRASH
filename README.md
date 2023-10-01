@@ -15,6 +15,8 @@
 ## Usage:
  **➡️Termux version from Play Store is not supported since 2019, please use the latest version from F-Droid Store!
 Download Now: 📥 https://f-droid.org/packages/com.termux/**
+
+**Watch video👉 [Instagram ] ( https://www.instagram.com/reel/Cx1aSoayM-n/?igshid=MzRlODBiNWFlZA== )**
    
 #### ➡️To use the WA-CRASH type the following commands in Termux or linux:
 
