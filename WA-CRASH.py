@@ -20,7 +20,7 @@
 ###################################
 #CREATED BY: WHITEDH4CKER         #
 #Project : WA-CRASH               #
-#Type    : WHATSAPP - CRASHER     #
+#Type    : WHATSAPP - CRASH       #
 ###################################
 import os
 import colorama
